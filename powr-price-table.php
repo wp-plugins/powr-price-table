@@ -1,14 +1,14 @@
 <?php
     /**
      * @package POWr Price Table
-     * @version 1.0
+     * @version 1.1
      */
     /*
     Plugin Name: POWr Price Table
     Plugin URI: http://www.powr.io
     Description: Showcase pricing of your products, plans, and features! Add the widget to your theme, or create a Price Table on ANY page or post by using the shortcode [powr-price-table]. Then, simply visit your site and click the settings icon to customize your Price Table right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
-    Version: 1.0
+    Version: 1.1
     Author URI: http://www.powr.io
     */
 
@@ -42,7 +42,7 @@
           if(powr_local_mode()){//Determine JS url:
             $js_url = '//localhost:3000/powr_local.js';
           }else{
-            $js_url = '//powr.io/powr.js';
+            $js_url = '//www.powr.io/powr.js';
           }
           ?>
           <script>
