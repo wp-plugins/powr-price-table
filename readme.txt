@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: comparison, comparison table, css table, price, price grid, pricing, pricing box, pricing grid, pricing table, table, woocommerce, sell, payment gateway, price table, price comparison, plan table, product table, feature table, mobile responsive, price table plugin, price table widget, free price table, mobile responsive, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, special deal, special offer, highlight
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
