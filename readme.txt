@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Showcase pricing for products, plans, and features side-by-side!
 
 == Description ==
- Showcase pricing for products, plans, and features side-by-side!
+[youtube https://www.youtube.com/watch?v=E90-93DLT6E] Showcase pricing for products, plans, and features side-by-side!
 <br>
 <br>
 POWr Price Table is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -24,7 +24,8 @@ First, download, install, and activate POWr Price Table. Then drop the widget an
 <br>
 = Free Features =
 * Accept payments and donations directly through PayPal.
-* Showcase and compare an unlimited number of plans, products, and features side-by-side.
+* Display and sell an unlimited number of plans, products, and features side-by-side.
+* Create recurring payments for subscriptions and memberships.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Distinguish your product or plan with customizable “highlight” feature. 
 * Built-in support for text in any language.
