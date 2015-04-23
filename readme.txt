@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: comparison, comparison table, css table, price, price grid, pricing, pricing box, pricing grid, pricing table, table, woocommerce, sell, payment gateway, price table, price comparison, plan table, product table, feature table, mobile responsive, price table plugin, price table widget, free price table, mobile responsive, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, special deal, special offer, highlight
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,6 +31,7 @@ First, download, install, and activate POWr Price Table. Then drop the widget an
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
